@@ -1,7 +1,7 @@
 # Bookings and Reservations
 
 
-This is the repository on follow-up on Go course on building bookings and reservations project. 
+This is the repository on follow-up on Go course on building "bookings and reservations project". 
 
 -Built in Go version 1.17  
 -Uses the chi router [chi router](https://github.com/go-chi/chi)  
